@@ -10,6 +10,7 @@ bash build.sh
 
 ## Related Projects
 
+- [World Map Puzzle](https://marmooo.github.io/world-map-puzzle/)
 - [Japan Map Puzzle](https://marmooo.github.io/japan-map-puzzle/)
 - [USA Map Puzzle](https://marmooo.github.io/usa-map-puzzle/)
 - [China Map Puzzle](https://marmooo.github.io/china-map-puzzle/)
