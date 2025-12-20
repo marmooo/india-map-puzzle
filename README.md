@@ -21,7 +21,7 @@ bash build.sh
   [Wikimedia](https://commons.wikimedia.org/wiki/File:India_location_map.svg)
   ([SVG](https://upload.wikimedia.org/wikipedia/commons/d/dc/India_location_map.svg))
   licensed under the CC-BY-SA-3.0
-- `src/map.svg` is modified from `map-original.svg` licensed under the
+- `src/map.svg` is created from `map-original.svg` licensed under the
   CC-BY-SA-4.0
 - `src/favicon/favicon.svg` is modified from
   [mapsicon](https://github.com/djaiss/mapsicon)
