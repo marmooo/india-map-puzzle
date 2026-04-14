@@ -1,4 +1,4 @@
-const cacheName = "2026-02-27 00:00";
+const cacheName = "2026-04-14 00:00";
 const urlsToCache = [
   "/india-map-puzzle/index.js",
   "/india-map-puzzle/map.svg",
